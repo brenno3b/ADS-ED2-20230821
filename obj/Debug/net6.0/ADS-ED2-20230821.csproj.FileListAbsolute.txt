@@ -1,0 +1,14 @@
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\bin\Debug\net6.0\ADS-ED2-20230821.exe
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\bin\Debug\net6.0\ADS-ED2-20230821.deps.json
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\bin\Debug\net6.0\ADS-ED2-20230821.runtimeconfig.json
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\bin\Debug\net6.0\ADS-ED2-20230821.dll
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\bin\Debug\net6.0\ADS-ED2-20230821.pdb
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ADS-ED2-20230821.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ADS-ED2-20230821.AssemblyInfoInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ADS-ED2-20230821.AssemblyInfo.cs
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ADS-ED2-20230821.csproj.CoreCompileInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ADS-ED2-20230821.dll
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\refint\ADS-ED2-20230821.dll
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ADS-ED2-20230821.pdb
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ADS-ED2-20230821.genruntimeconfig.cache
+C:\Users\Brenno\source\repos\ADS-ED2-20230821\obj\Debug\net6.0\ref\ADS-ED2-20230821.dll
